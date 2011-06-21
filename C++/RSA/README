@@ -1,0 +1,22 @@
+RSA Encryption/Decryption
+Params
+  1 : Filename
+  2 : Modulus
+  3 : Exponent
+
+Optional Params
+
+Decode
+  3 : 0 for no check
+  4 : Decode Exponent
+
+Modulus Decomposition Decode
+  4 : p
+  5 : q
+
+example input:
+encode:	README 2132620485891757429969256327 155523435193
+decode: 	README.crp 2132620485891757429969256327 0 1991105462108299987974479257
+
+Nathan Anderson
+SniperSmiley@gmail.com
