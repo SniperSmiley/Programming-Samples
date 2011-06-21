@@ -1,0 +1,9 @@
+Nonogram helper
+Command Line Arguments
+(in order)
+Width: default 32
+Height: default 32
+CellSize: default = 16
+
+Nathan Anderson
+SniperSmiley@gmail.com
